@@ -53,7 +53,7 @@ Nếu bạn chưa rành về git thì dưới đây là một số links tham kh
 
 Mở command line, đầu tiên hãy chắc chắn rằng mình đang ở master bằng cách chạy lệnh `git checkout master`
 
-![Init](Images/Pl1.png)
+![Init](Images/PI1.png)
 
 Để chắc ăn hơn nữa, chạy `git pull` để đảm bảo mã nguồn được cập nhật với repository
 
@@ -86,7 +86,7 @@ git push
 
 Nếu khi chạy `git push` mà git báo lỗi như hình dưới
 
-![Init](Images/Pl2.png)
+![Init](Images/PI2.png)
 
 Chạy lại lệnh `git push` với command như được bôi hồng
 
@@ -98,7 +98,8 @@ Trước khi tiến hành tạo pull request, hãy đảm bảo code coverage đ
 
 Trên trang repository, vào phần `Pull Request` chọn `Compare & Pull Request` nếu nó đang hiển thị cho branch mình đang làm
 
-![Init](Images/Pl3.png)
+
+![Init](Images/PI5.png)
 
 Hoặc bấm `New pull request` rồi chọn branch ở bước sau
 
