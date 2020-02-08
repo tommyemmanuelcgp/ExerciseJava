@@ -69,8 +69,6 @@ Viết chương trình kiểm tra 2 mảng số nguyên là tương tự nhau ha
 
 24. Implement method nhận tham số là mảng số nguyên, trả về kết quả là bội chung nhỏ nhất của của các số trong mảng
 
-25. Implement method nhận tham số là mảng số nguyên, trả về kết quả là ước chung lớn nhất của của các số trong mảng
-
 26. Implement method nhận tham số là mảng số nguyên, ở mỗi số nguyên, ta đảo ngược thứ tự các chữ số để thành một số nguyên mới. Cuối cùng tính tổng các số nguyên đó và trả về kết quả
 
 27. Implement method nhận tham số là mảng số nguyên và số nguyên k. Trả về mảng kết quả là k số nguyên lớn nhất trong mảng.
